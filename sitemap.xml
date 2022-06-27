@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>wangshuai-lu.github.io/posts/hogo99/</loc>
+    <loc>posts/hogo99/</loc>
     <lastmod>2022-06-27T21:01:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/</loc>
+    <loc></loc>
     <lastmod>2022-06-27T21:01:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/posts/</loc>
+    <loc>posts/</loc>
     <lastmod>2022-06-27T21:01:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/categories/</loc>
+    <loc>categories/</loc>
     <lastmod>2022-06-27T11:48:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/tags/</loc>
+    <loc>tags/</loc>
     <lastmod>2022-06-27T11:48:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</loc>
+    <loc>tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</loc>
     <lastmod>2022-06-27T11:48:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/posts/my-first-post2/</loc>
+    <loc>posts/my-first-post2/</loc>
     <lastmod>2022-06-27T11:48:26+08:00</lastmod>
   </url><url>
-    <loc>wangshuai-lu.github.io/categories/%E6%97%A5%E5%BF%97/</loc>
+    <loc>categories/%E6%97%A5%E5%BF%97/</loc>
     <lastmod>2022-06-27T11:48:26+08:00</lastmod>
   </url>
 </urlset>
