@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学生党 on My New Hugo Site</title>
+    <link>http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</link>
+    <description>Recent content in 学生党 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 11:48:26 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一篇博客</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 27 Jun 2022 11:48:26 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>这是关于我建立博客遇到的问题</description>
+    </item>
+    
+  </channel>
+</rss>
