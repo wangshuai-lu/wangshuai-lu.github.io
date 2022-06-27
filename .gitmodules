@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/wangshuai-lu/wangshuai-lu.github.io.git
+	branch = main
