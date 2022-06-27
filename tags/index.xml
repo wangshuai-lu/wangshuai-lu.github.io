@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>wangshuai-lu.github.io/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 11:48:26 +0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 11:48:26 +0800</lastBuildDate><atom:link href="wangshuai-lu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>学生党</title>
-      <link>http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</link>
+      <link>wangshuai-lu.github.io/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</link>
       <pubDate>Mon, 27 Jun 2022 11:48:26 +0800</pubDate>
       
-      <guid>http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</guid>
+      <guid>wangshuai-lu.github.io/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</guid>
       <description></description>
     </item>
     

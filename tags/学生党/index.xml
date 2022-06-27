@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>学生党 on My New Hugo Site</title>
-    <link>http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</link>
+    <link>wangshuai-lu.github.io/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/</link>
     <description>Recent content in 学生党 on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 11:48:26 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jun 2022 11:48:26 +0800</lastBuildDate><atom:link href="wangshuai-lu.github.io/tags/%E5%AD%A6%E7%94%9F%E5%85%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的第一篇博客</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>wangshuai-lu.github.io/posts/my-first-post2/</link>
       <pubDate>Mon, 27 Jun 2022 11:48:26 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
-      <description>这是关于我建立博客遇到的问题</description>
+      <guid>wangshuai-lu.github.io/posts/my-first-post2/</guid>
+      <description>#这是关于我建立博客遇到的问题 在建立过程中，我尝试了三次。 ##第一次重建，是在创建本地hugo的时候，由于参考了多数文件，导致我步骤重复，反复报错，烦不胜烦。 ##第二次是想改博客主题，但没有找到方法。 ##第三次也遇到2个问题， 1.由于github因安全因素更新，使得用户名-邮箱不能上传，改用密钥。 所以需要在github建立SHH密钥，我建立好密钥，却反馈我连接不上，经老师提示，是我网络连接出了问题，我用的steam++，在改用fastgithub后，成功连接。 2.远程与本地的分支冲突（我本地是master，github托管网站却默认为main分支？），在请教老师和学生导师后，我使用git push origin main &amp;ndash;force之后再用 git push origin main将本地文件上传到github的main分支进行托管，使得博客网站显示出本地的内容。</description>
     </item>
     
   </channel>
